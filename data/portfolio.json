@@ -1,20 +1,20 @@
 [
     {
         "image": "image1.png",
-        "title": "Booki",
+        "title": "Print-it",
         "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "link": "https://github.com/MichaelDSV/Print-It.git"
     },
     {
         "image": "image2.png",
-        "title": "Mon Vieux grimoire",
+        "title": "Sophie Bluel",
         "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "link": "https://github.com/MichaelDSV/Portfolio-Sophie-Bluel.git"
     },
     {
         "image": "image3.png",
         "title": "Kasa",
         "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "link": "https://github.com/MichaelDSV/Kasa---application-web-de-location-immobili-re.git"
     }
 ]
