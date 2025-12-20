@@ -1,20 +1,116 @@
 [
     {
-        "image": "image1.png",
-        "title": "Print-it",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "https://github.com/MichaelDSV/Print-It.git"
+        "image": "logo-Booki.png",
+        "alt": "Logo-Booki",
+        "title": "Booki",
+        "text": [
+            "Création de la page d'accueil d'une agence de voyage en HTML et CSS, à partir de maquettes Figma.",
+            "Intégration responsive complète pour mobile, tablette et desktop, fidèle aux maquettes fournies.",
+            "Utilisation de Flexbox et Grid pour structurer la page et garantir une mise en page adaptative.",
+            "Ce projet m’a permis de maîtriser l’intégration statique et les bonnes pratiques de structuration HTML/CSS.",
+            "Il constitue une base solide pour comprendre le front-end moderne, essentielle pour mon évolution vers les tests UI/UX."
+        ],
+        "link": "TODO"
     },
     {
-        "image": "image2.png",
-        "title": "Sophie Bluel",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "image": "logo-Kasa.png",
+        "alt": "Logo-kasa",
+        "title": "Kasa",
+        "text": [
+            "Développement d'une application React pour la location de logements entre particuliers.",
+            "Utilisation de React pour créer des composants dynamiques et de React Router pour la navigation entre les pages.",
+            "Mise en place de la structure, du style et des fonctionnalités front-end à partir de maquettes.",
+            "Ce projet m'a permis de mieux comprendre les composants React, leur interaction avec les données, et de préparer des tests ciblés en tant que future testeuse logicielle."
+        ],
+        "link": "https://github.com/MichaelDSV/Kasa---application-web-de-location-immobili-re.git"
+    },
+    {
+        "image": "Sophie Bluel.png",
+        "alt": "Logo-Sophie Bluel",
+        "title": "Sophie Bluel, architecte d'intérieur ",
+        "text": [
+            "Développement d’un site web dynamique en JavaScript pour présenter les projets d'une architecte d'intérieur.",
+            "Création d’une page de présentation des travaux à partir du HTML fourni, avec gestion du DOM et des événements utilisateurs.",
+            "Développement d’une page de connexion pour l’administrateur et d’une modale pour l’ajout de médias, codées from scratch.",
+            "Communication avec une API pour récupérer et envoyer des données (GET, POST, DELETE).",
+            "Utilisation de Figma pour suivre les maquettes, de GitHub pour la gestion de version et de VS Code pour le développement."
+        ],
         "link": "https://github.com/MichaelDSV/Portfolio-Sophie-Bluel.git"
     },
     {
-        "image": "image3.png",
-        "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "https://github.com/MichaelDSV/Kasa---application-web-de-location-immobili-re.git"
-    }
+        "image": "JSE Avocats.png",
+        "alt": "Logo-JSE Avocats",
+        "title": "Tests fonctionnels – JSE Avocat",
+        "text": [
+            "Réalisation de tests fonctionnels sur le site WordPress JSE Avocat en local via Docker.",
+            "Exécution d’un cahier de recette pour vérifier les fonctionnalités principales du site.",
+            "Conduite de tests exploratoires pour identifier des anomalies non prévues dans les spécifications.",
+            "Utilisation d’un tableur pour documenter précisément les bugs détectés et faciliter leur résolution.",
+            "Ce projet m’a permis d’acquérir les bases de la démarche qualité logicielle et de la communication avec les équipes de développement."
+        ],
+        "link": "TODO"
+    },
+    {
+        "image": "724 events.png",
+        "alt": "Logo-724 events",
+        "title": "Campagne de tests – 724events",
+        "text": [
+            "Conduite d’une campagne de tests complète sur le site web de l’agence événementielle 724events, exécuté via Docker.",
+            "Exécution d’un cahier de recettes pour valider les fonctionnalités principales du site.",
+            "Réalisation de tests exploratoires pour détecter des anomalies non prévues.",
+            "Utilisation de JIRA pour documenter précisément les anomalies via des tickets détaillés.",
+            "Rédaction d’un rapport de bilan récapitulant les tests effectués, les anomalies identifiées, et une analyse globale de la qualité du site."
+        ],
+        "link": "TODO"
+    },
+    {
+        "image": "menumaker.png",
+        "alt": "Logo-menumaker",
+        "title": "Planification technique – Menu Maker by Qwanta",
+        "text": [
+            "Planification du développement d’un site web permettant aux restaurateurs de créer leur menu en ligne.",
+            "Analyse des maquettes, des spécifications fonctionnelles et des User Stories pour définir les priorités du projet.",
+            "Rédaction des spécifications techniques et découpage des fonctionnalités en tâches dans un tableau Kanban (Trello).",
+            "Organisation d’une veille technologique via Feedly pour suivre les outils et frameworks web pertinents.",
+            "Présentation d’une solution technique argumentée, adaptée aux besoins fonctionnels du client."
+        ],
+        "link": "TODO"
+    },   
+     
+    {
+        "image": "EcoBlissBath.png",
+        "alt": "Logo-EcoBlissBath",
+        "title": "Automatisation de tests - Eco Bliss Bath",
+        "text": [
+            "Rôle de QA Engineer pour une start-up écoresponsable : automatisation de scénarios de tests fonctionnels avec Cypress.",
+            "Analyse d'une campagne de tests manuels existante pour sélectionner deux scénarios critiques à automatiser.",
+            "Rédaction de scripts d'automatisation en JavaScript avec Cypress (tests API, formulaire, panier, etc.).",
+            "Exécution des tests automatisés et identification des anomalies potentielles.",
+            "Rédaction d’un rapport de campagne détaillé incluant les résultats, les bugs détectés et l’évaluation de la couverture de test.",
+            "Utilisation de GitHub pour la gestion de version et documentation du projet (README inclus)."
+        ],
+        "link": "TODO"
+    },
+    {
+        "image": "ApplicationFinance.png",
+        "alt": "Logo-ApplicationFinance",
+        "title": "Stratégie de test – Application financière",
+        "text": [
+          "Mission de consultante QA dans une entreprise du secteur financier : définition de la stratégie de test avant mise en production.",
+          "Analyse des spécifications fonctionnelles pour identifier les exigences critiques à tester.",
+          "Élaboration d'une stratégie de test : types de tests, outils à utiliser (manuels et automatisés), approche Agile par sprint.",
+          "Planification des tests en coordination avec les sprints de développement pour garantir l'intégration continue.",
+          "Rédaction d'un cahier de recette structuré pour guider les tests fonctionnels et assurer la traçabilité des résultats.",
+          "Utilisation de Notion pour organiser la documentation, les tests et la gestion du projet QA."
+        ],
+        "link": "TODO"
+    },    
+    {
+        "image": "mon portfolio.png",
+        "alt": "image de mon site portfolio",
+        "title": "Créez et publiez votre portfolio de testeur logiciel",
+        "text": "j'ai crée et publier en ligne votre propre portfolio de testeur logiciel, en mettant en avant mes compétences et projets réalisés dans le domaine du test logiciel.",
+        "link": "TODO"
+    }   
+   
 ]
