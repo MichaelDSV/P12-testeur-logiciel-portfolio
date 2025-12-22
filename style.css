@@ -26,15 +26,15 @@
 .bgimage {
     height: 100vh;
     max-height: 900px;
-    background: url("images/image1.jpg");
+    background: url("images/Backgroundspace.jpg");
     background-size: cover;
     position: relative;
 }
 /* text css above hero image*/
-.hero_title {
+.my_title {
     font-size: 4.5rem;
 }
-.hero_desc {
+.my_desc {
     font-size: 2rem;
 }
 .hero-text {
