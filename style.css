@@ -40,6 +40,15 @@
   z-index: 1;
 }
 
+.imageAboutPage{
+  width: 100%;
+  max-width: 356px;
+  height: auto;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+
 /* text css above hero image*/
 .my_title {
   font-size: 4.5rem;
@@ -54,7 +63,7 @@
   transform: translate(-50%, -50%);
   text-align: center;
   color: #fff;
-  z-index: 2; /* IMPORTANT */
+  z-index: 2;
 }
 
 /* about */
