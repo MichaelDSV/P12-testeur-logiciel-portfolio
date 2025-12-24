@@ -1,6 +1,6 @@
 [
     {
-        "image": "logo-Booki.webp",
+        "image": "logo-Booki",
         "alt": "Capture d’écran du projet Booki",
         "title": "Booki",
         "text": [
@@ -13,7 +13,7 @@
         "link": "TODO"
     },
     {
-        "image": "logo-Kasa.webp",
+        "image": "logo-Kasa",
         "alt": "Capture d’écran du projet kasa",
         "title": "Kasa",
         "text": [
@@ -25,7 +25,7 @@
         "link": "https://github.com/MichaelDSV/Kasa---application-web-de-location-immobili-re.git"
     },
     {
-        "image": "Sophie-Bluel.webp",
+        "image": "Sophie-Bluel",
         "alt": "Capture d’écran du projet Sophie Bluel",
         "title": "Sophie Bluel, architecte d'intérieur ",
         "text": [
@@ -38,7 +38,7 @@
         "link": "https://github.com/MichaelDSV/Portfolio-Sophie-Bluel.git"
     },
     {
-        "image": "JSE-Avocats.webp",
+        "image": "JSE-Avocats",
         "alt": "Capture d’écran du projet JSE Avocats",
         "title": "Tests fonctionnels – JSE Avocat",
         "text": [
@@ -51,7 +51,7 @@
         "link": "TODO"
     },
     {
-        "image": "724-events.webp",
+        "image": "724-events",
         "alt": "Capture d’écran du projet 724 events",
         "title": "Campagne de tests – 724events",
         "text": [
@@ -64,7 +64,7 @@
         "link": "TODO"
     },
     {
-        "image": "menumaker.webp",
+        "image": "menumaker",
         "alt": "Capture d’écran du projet menumaker",
         "title": "Planification technique – Menu Maker by Qwanta",
         "text": [
@@ -78,7 +78,7 @@
     },   
      
     {
-        "image": "EcoBlissBath.webp",
+        "image": "EcoBlissBath",
         "alt": "Capture d’écran du projet EcoBlissBath",
         "title": "Automatisation de tests - Eco Bliss Bath",
         "text": [
@@ -92,7 +92,7 @@
         "link": "TODO"
     },
     {
-        "image": "ApplicationFinance.webp",
+        "image": "ApplicationFinance",
         "alt": "Capture d’écran du projet ApplicationFinance",
         "title": "Stratégie de test – Application financière",
         "text": [
@@ -106,7 +106,7 @@
         "link": "TODO"
     },    
     {
-        "image": "mon-portfolio.webp",
+        "image": "mon-portfolio",
         "alt": "Capture d’écran du projet portfolio",
         "title": "Créez et publiez votre portfolio de testeur logiciel",
         "text": "Créer et publier en ligne votre portfolio de testeur logiciel, en mettant en avant les compétences et projets réalisés dans le domaine du test logiciel.",

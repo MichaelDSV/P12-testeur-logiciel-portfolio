@@ -64,7 +64,12 @@
             <h2 class="text-center">A propos</h2>
             <div class="row mt-4">
                 <div class="col-lg-4">
-                    <img src="images/MDSV.webp" class="imageAboutPage" alt="Photo de l'auteur">
+                  <picture>
+                    <source srcset="images/MDSV-480.webp" media="(max-width: 480px)">
+                    <source srcset="images/MDSV-768.webp" media="(max-width: 768px)">
+                    <img src="images/MDSV-1200.webp"
+                    class="imageAboutPage" alt="Photo de profil de Michael, testeur logiciel" loading="lazy">
+                </picture>
                 </div>
 
                 <div class="col-lg-8">

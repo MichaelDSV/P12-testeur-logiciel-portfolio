@@ -26,7 +26,7 @@
 .bgimage {
     height: 100vh;
     max-height: 900px;
-    background: url("images/Backgroundspace.webp");
+    background: url("images/Backgroundspace-1200.webp");
     background-size: cover;
     position: relative;
 }
@@ -99,3 +99,19 @@
 }
 
 /* footer */
+
+
+
+/* Tablette */
+@media (max-width: 992px) {
+  .bgimage {
+    background-image: url("images/Backgroundspace-768.webp");
+  }
+}
+
+/* Mobile */
+@media (max-width: 576px) {
+  .bgimage {
+    background-image: url("images/Backgroundspace-480.webp");
+  }
+}
