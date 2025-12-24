@@ -106,19 +106,18 @@ function createPortfolioFromJSON() {
         card.innerHTML = `
           <div class="card portfolioContent">
             <img
-  class="card-img-top"
-  src="images/${item.image}-768.webp"
-  srcset="
-    images/${item.image}-480.webp 480w,
-    images/${item.image}-768.webp 768w,
-    images/${item.image}-1200.webp 1200w
-  "
-  sizes="(max-width: 576px) 100vw, (max-width: 992px) 50vw, 33vw"
-  alt="${item.alt}"
-  loading="lazy"
-  width="1200"
-  height="675"
-  style="width:100%; height:auto;"
+            class="card-img-top"
+            src="images/${item.image}-768.webp"
+            srcset="
+             images/${item.image}-480.webp 480w,
+             images/${item.image}-768.webp 768w,
+             images/${item.image}-1200.webp 1200w"
+            sizes="(max-width: 576px) 100vw, (max-width: 992px) 50vw, 33vw"
+            alt="${item.alt}"
+            loading="lazy"
+            width="1200"
+            height="675"
+            style="width:100%; height:auto;"
 >
 
             <div class="card-body">
