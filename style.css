@@ -19,7 +19,7 @@
 
 /* display background dark color on navbar scroll */
 .navbarScroll.navbarDark {
-  background-color: #5b5b5b;
+  background-color: #000000;
 }
 
 /* hero background image */
@@ -36,11 +36,11 @@
   content: "";
   position: absolute;
   inset: 0;
-  background-color: rgba(0, 0, 1, 0.801);
-  z-index: 1;
+  background: rgba(0, 0, 0, 0.7); /* ajuste 0.45 à 0.70 selon ton goût */
+  pointer-events: none;
 }
 
-.imageAboutPage{
+.imageAboutPage {
   width: 100%;
   max-width: 356px;
   height: auto;
@@ -48,22 +48,36 @@
   object-fit: cover;
 }
 
-
 /* text css above hero image*/
 .my_title {
   font-size: 4.5rem;
 }
-.my_desc {
-  font-size: 2rem;
-}
+
 .hero-text {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
-  color: #fff;
   z-index: 2;
+
+  /* ✅ pour WAVE : fond réel derrière le texte */
+  background: rgba(0, 0, 0, 0.75);
+  padding: 1.25rem 1.75rem;
+  border-radius: 12px;
+  max-width: 90%;
+}
+
+.my_title,
+.my_desc {
+  background: transparent !important;
+  color: #fff;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.8);
+  margin: 0;
+}
+.my_desc {
+  margin-top: 0.75rem;
+  font-size: 2rem;
 }
 
 /* about */
@@ -119,6 +133,37 @@
 }
 
 /* footer */
+
+/* Navbar : fond vraiment sombre (évite transparent) */
+.navbar {
+  background-color: #0b0b0b !important; /* ou #000 */
+}
+
+/* Liens + marque : contraste fort */
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #ffffff !important;
+}
+
+/* Hover/focus/active : encore lisible + repérable */
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: #ffffff !important;
+  text-decoration: underline; /* optionnel mais top accessibilité */
+}
+
+/* Lien actif (section courante) */
+.navbar .nav-link.active {
+  color: #ffffff !important;
+  font-weight: 700;
+}
+
+/* Focus clavier visible (important pour accessibilité) */
+.navbar .nav-link:focus-visible,
+.navbar .navbar-brand:focus-visible {
+  outline: 3px solid #ffffff;
+  outline-offset: 3px;
+}
 
 /* NAVBAR - texte blanc */
 .navbar-nav .nav-link {

@@ -125,7 +125,9 @@ function createPortfolioFromJSON() {
               ${formatProjectText(item.text)}
 
               <div class="text-center">
-                <a href="${item.link}" class="btn btn-success">Lien</a>
+                <a href="${
+                  item.link
+                }" class="btn btn-success" target="_blank" rel="noopener noreferrer"> Lien </a>
               </div>
             </div>
           </div>

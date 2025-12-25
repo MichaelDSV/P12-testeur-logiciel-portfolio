@@ -1,18 +1,5 @@
 [
     {
-        "image": "logo-Booki",
-        "alt": "Capture d’écran du projet Booki",
-        "title": "Booki",
-        "text": [
-            "Création de la page d'accueil d'une agence de voyage en HTML et CSS, à partir de maquettes Figma.",
-            "Intégration responsive complète pour mobile, tablette et desktop, fidèle aux maquettes fournies.",
-            "Utilisation de Flexbox et Grid pour structurer la page et garantir une mise en page adaptative.",
-            "Ce projet m’a permis de maîtriser l’intégration statique et les bonnes pratiques de structuration HTML/CSS.",
-            "Il constitue une base solide pour comprendre le front-end moderne, essentielle pour mon évolution vers les tests UI/UX."
-        ],
-        "link": "TODO"
-    },
-    {
         "image": "logo-Kasa",
         "alt": "Capture d’écran du projet kasa",
         "title": "Kasa",
@@ -36,81 +23,5 @@
             "Utilisation de Figma pour suivre les maquettes, de GitHub pour la gestion de version et de VS Code pour le développement."
         ],
         "link": "https://github.com/MichaelDSV/Portfolio-Sophie-Bluel.git"
-    },
-    {
-        "image": "JSE-Avocats",
-        "alt": "Capture d’écran du projet JSE Avocats",
-        "title": "Tests fonctionnels – JSE Avocat",
-        "text": [
-            "Réalisation de tests fonctionnels sur le site WordPress JSE Avocat en local via Docker.",
-            "Exécution d’un cahier de recette pour vérifier les fonctionnalités principales du site.",
-            "Conduite de tests exploratoires pour identifier des anomalies non prévues dans les spécifications.",
-            "Utilisation d’un tableur pour documenter précisément les bugs détectés et faciliter leur résolution.",
-            "Ce projet m’a permis d’acquérir les bases de la démarche qualité logicielle et de la communication avec les équipes de développement."
-        ],
-        "link": "TODO"
-    },
-    {
-        "image": "724-events",
-        "alt": "Capture d’écran du projet 724 events",
-        "title": "Campagne de tests – 724events",
-        "text": [
-            "Conduite d’une campagne de tests complète sur le site web de l’agence événementielle 724events, exécuté via Docker.",
-            "Exécution d’un cahier de recettes pour valider les fonctionnalités principales du site.",
-            "Réalisation de tests exploratoires pour détecter des anomalies non prévues.",
-            "Utilisation de JIRA pour documenter précisément les anomalies via des tickets détaillés.",
-            "Rédaction d’un rapport de bilan récapitulant les tests effectués, les anomalies identifiées, et une analyse globale de la qualité du site."
-        ],
-        "link": "TODO"
-    },
-    {
-        "image": "menumaker",
-        "alt": "Capture d’écran du projet menumaker",
-        "title": "Planification technique – Menu Maker by Qwanta",
-        "text": [
-            "Planification du développement d’un site web permettant aux restaurateurs de créer leur menu en ligne.",
-            "Analyse des maquettes, des spécifications fonctionnelles et des User Stories pour définir les priorités du projet.",
-            "Rédaction des spécifications techniques et découpage des fonctionnalités en tâches dans un tableau Kanban (Trello).",
-            "Organisation d’une veille technologique via Feedly pour suivre les outils et frameworks web pertinents.",
-            "Présentation d’une solution technique argumentée, adaptée aux besoins fonctionnels du client."
-        ],
-        "link": "TODO"
-    },   
-     
-    {
-        "image": "EcoBlissBath",
-        "alt": "Capture d’écran du projet EcoBlissBath",
-        "title": "Automatisation de tests - Eco Bliss Bath",
-        "text": [
-            "Rôle de QA Engineer pour une start-up écoresponsable : automatisation de scénarios de tests fonctionnels avec Cypress.",
-            "Analyse d'une campagne de tests manuels existante pour sélectionner deux scénarios critiques à automatiser.",
-            "Rédaction de scripts d'automatisation en JavaScript avec Cypress (tests API, formulaire, panier, etc.).",
-            "Exécution des tests automatisés et identification des anomalies potentielles.",
-            "Rédaction d’un rapport de campagne détaillé incluant les résultats, les bugs détectés et l’évaluation de la couverture de test.",
-            "Utilisation de GitHub pour la gestion de version et documentation du projet (README inclus)."
-        ],
-        "link": "TODO"
-    },
-    {
-        "image": "ApplicationFinance",
-        "alt": "Capture d’écran du projet ApplicationFinance",
-        "title": "Stratégie de test – Application financière",
-        "text": [
-          "Mission de consultante QA dans une entreprise du secteur financier : définition de la stratégie de test avant mise en production.",
-          "Analyse des spécifications fonctionnelles pour identifier les exigences critiques à tester.",
-          "Élaboration d'une stratégie de test : types de tests, outils à utiliser (manuels et automatisés), approche Agile par sprint.",
-          "Planification des tests en coordination avec les sprints de développement pour garantir l'intégration continue.",
-          "Rédaction d'un cahier de recette structuré pour guider les tests fonctionnels et assurer la traçabilité des résultats.",
-          "Utilisation de Notion pour organiser la documentation, les tests et la gestion du projet QA."
-        ],
-        "link": "TODO"
-    },    
-    {
-        "image": "mon-portfolio",
-        "alt": "Capture d’écran du projet portfolio",
-        "title": "Créez et publiez votre portfolio de testeur logiciel",
-        "text": "Créer et publier en ligne votre portfolio de testeur logiciel, en mettant en avant les compétences et projets réalisés dans le domaine du test logiciel.",
-        "link": "TODO"
-    }   
-   
+    }
 ]
