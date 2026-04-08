@@ -10,7 +10,7 @@
             "Ce projet m’a permis de maîtriser l’intégration statique et les bonnes pratiques de structuration HTML/CSS.",
             "Il constitue une base solide pour comprendre le front-end moderne, essentielle pour mon évolution vers les tests UI/UX."
         ],
-        "link": "TODO"
+        "link": "https://github.com/MichaelDSV/Booki.git"
     },
     {
         "image": "logo-Kasa",
@@ -89,7 +89,7 @@
             "Rédaction d’un rapport de campagne détaillé incluant les résultats, les bugs détectés et l’évaluation de la couverture de test.",
             "Utilisation de GitHub pour la gestion de version et documentation du projet (README inclus)."
         ],
-        "link": "TODO"
+        "link": "https://github.com/MichaelDSV/Eco-Bliss-Bath.git"
     },
     {
         "image": "ApplicationFinance",
@@ -110,7 +110,7 @@
         "alt": "Capture d’écran du projet portfolio",
         "title": "Créez et publiez votre portfolio de testeur logiciel",
         "text": "Créer et publier en ligne votre portfolio de testeur logiciel, en mettant en avant les compétences et projets réalisés dans le domaine du test logiciel.",
-        "link": "TODO"
+        "link": "https://github.com/MichaelDSV/P12-testeur-logiciel-portfolio.git"
     }   
 
 ]
